@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T22:39:13.623Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.5.715 Yowser/2.5 Safari/537.36" etag="TnYSXz0OTRuI4F4AKK3d" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T22:51:03.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.5.715 Yowser/2.5 Safari/537.36" etag="N21SvBtKtesiNT53z31F" version="20.7.4" type="github">
   <diagram id="hxLHo2L7IaXjg4xJ-ZwW" name="Диаграмма1 || Доставка Суши">
     <mxGraphModel dx="1542" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry x="380" y="290" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1acgbRlPmdxegR5O_1QO-7" value="&lt;span style=&quot;font-family: Verdana; font-size: 13px;&quot;&gt;Уведомление о новом заказе&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#876413;fillColor=#FFDFB5;" parent="1acgbRlPmdxegR5O_1QO-2" vertex="1">
-          <mxGeometry x="385" y="680" width="140" height="50" as="geometry" />
+          <mxGeometry x="385" y="710" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1acgbRlPmdxegR5O_1QO-8" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=13;strokeColor=#876413;strokeWidth=1;dashed=1;" parent="1acgbRlPmdxegR5O_1QO-2" source="1acgbRlPmdxegR5O_1QO-3" target="1acgbRlPmdxegR5O_1QO-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -51,10 +51,10 @@
           <mxGeometry x="800" y="490" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1acgbRlPmdxegR5O_1QO-14" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Редактирование &lt;br&gt;товаров в меню&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#876413;fillColor=#FFDFB5;" parent="1acgbRlPmdxegR5O_1QO-2" vertex="1">
-          <mxGeometry x="550" y="530" width="170" height="59.5" as="geometry" />
+          <mxGeometry x="510" y="560" width="170" height="59.5" as="geometry" />
         </mxCell>
-        <mxCell id="1acgbRlPmdxegR5O_1QO-15" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Подтверждение заказа и обсуждение всех нюансов&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#876413;fillColor=#FFDFB5;" parent="1acgbRlPmdxegR5O_1QO-2" vertex="1">
-          <mxGeometry x="270" y="430" width="150" height="80" as="geometry" />
+        <mxCell id="1acgbRlPmdxegR5O_1QO-15" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Обсуждение &lt;br&gt;всех нюансов и подтверждение &lt;br&gt;заказа&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#876413;fillColor=#FFDFB5;" parent="1acgbRlPmdxegR5O_1QO-2" vertex="1">
+          <mxGeometry x="270" y="420" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1acgbRlPmdxegR5O_1QO-16" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=13;strokeColor=#876413;strokeWidth=1;dashed=1;" parent="1acgbRlPmdxegR5O_1QO-2" source="1acgbRlPmdxegR5O_1QO-6" target="1acgbRlPmdxegR5O_1QO-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -169,11 +169,11 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1acgbRlPmdxegR5O_1QO-42" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Добавление заказа в список заказов&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#876413;fillColor=#FFDFB5;" parent="1acgbRlPmdxegR5O_1QO-2" vertex="1">
-          <mxGeometry x="220" y="550" width="160" height="50" as="geometry" />
+        <mxCell id="1acgbRlPmdxegR5O_1QO-42" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Редактирование списка заказов&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#876413;fillColor=#FFDFB5;" parent="1acgbRlPmdxegR5O_1QO-2" vertex="1">
+          <mxGeometry x="205" y="540" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1acgbRlPmdxegR5O_1QO-43" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Консультация клиентов в чате&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#876413;fillColor=#FFDFB5;" parent="1acgbRlPmdxegR5O_1QO-2" vertex="1">
-          <mxGeometry x="270" y="620" width="150" height="50" as="geometry" />
+          <mxGeometry x="272" y="596" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1acgbRlPmdxegR5O_1QO-44" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Просмотр статуса заказа и очередность выполнения заказов через список заказов&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#876413;fillColor=#FFDFB5;" parent="1acgbRlPmdxegR5O_1QO-2" vertex="1">
           <mxGeometry x="720" y="380" width="240" height="70" as="geometry" />
@@ -204,10 +204,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DIIWGWlUNtCk0ej_MEeX-1" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Просмотр отзывов&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#876413;fillColor=#FFDFB5;" vertex="1" parent="1acgbRlPmdxegR5O_1QO-2">
-          <mxGeometry x="640" y="460" width="155" height="50" as="geometry" />
+          <mxGeometry x="640" y="510" width="155" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DIIWGWlUNtCk0ej_MEeX-3" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Удаление заказа из списка заказов&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#876413;fillColor=#FFDFB5;" vertex="1" parent="1acgbRlPmdxegR5O_1QO-2">
-          <mxGeometry x="550" y="610.5" width="170" height="59.5" as="geometry" />
+        <mxCell id="DIIWGWlUNtCk0ej_MEeX-3" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Редактирование &lt;br&gt;списка заказов&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#876413;fillColor=#FFDFB5;" vertex="1" parent="1acgbRlPmdxegR5O_1QO-2">
+          <mxGeometry x="500" y="640" width="150" height="59.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DIIWGWlUNtCk0ej_MEeX-5" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Просмотр списка заказов&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#876413;fillColor=#FFDFB5;" vertex="1" parent="1acgbRlPmdxegR5O_1QO-2">
+          <mxGeometry x="190" y="650.5" width="140" height="59.5" as="geometry" />
         </mxCell>
         <mxCell id="1acgbRlPmdxegR5O_1QO-59" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=13;strokeColor=#876413;strokeWidth=1;" parent="1" source="1acgbRlPmdxegR5O_1QO-60" target="1acgbRlPmdxegR5O_1QO-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -351,6 +354,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1370" y="801.6263061254181" as="sourcePoint" />
             <mxPoint x="1134.5757521181245" y="703.0577770045893" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIIWGWlUNtCk0ej_MEeX-6" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=13;strokeColor=#876413;strokeWidth=1;" edge="1" parent="1" source="1acgbRlPmdxegR5O_1QO-61" target="DIIWGWlUNtCk0ej_MEeX-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="329.9999999999998" y="805.9974129703828" as="sourcePoint" />
+            <mxPoint x="670.6263734791046" y="737.8280777487291" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
