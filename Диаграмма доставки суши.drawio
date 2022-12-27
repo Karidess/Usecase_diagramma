@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T21:32:05.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.5.715 Yowser/2.5 Safari/537.36" etag="byFQU3J7AIueLWxjTvFD" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T21:36:01.080Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.5.715 Yowser/2.5 Safari/537.36" etag="VGwzN9kay09kt3x135qz" version="20.7.4" type="github">
   <diagram id="hxLHo2L7IaXjg4xJ-ZwW" name="Диаграмма1 || Доставка Суши">
-    <mxGraphModel dx="1431" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1253" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -251,7 +251,7 @@
             <mxPoint x="540" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1acgbRlPmdxegR5O_1QO-60" value="Неавторизированный&lt;br&gt;пользователь" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#876413;fontFamily=Verdana;fontSize=13;fillColor=#FFDFB5;" parent="1" vertex="1">
+        <mxCell id="1acgbRlPmdxegR5O_1QO-60" value="Неавторизованный&lt;br&gt;пользователь" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#876413;fontFamily=Verdana;fontSize=13;fillColor=#FFDFB5;" parent="1" vertex="1">
           <mxGeometry x="280" y="200" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1acgbRlPmdxegR5O_1QO-61" value="Оператор" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#876413;fontFamily=Verdana;fontSize=13;fillColor=#FFDFB5;" parent="1" vertex="1">
@@ -332,7 +332,7 @@
             <mxPoint x="1137.5750011713394" y="637.208029492687" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1acgbRlPmdxegR5O_1QO-76" value="Авторизированный&lt;br&gt;пользователь" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#876413;fontFamily=Verdana;fontSize=13;fillColor=#FFDFB5;" parent="1" vertex="1">
+        <mxCell id="1acgbRlPmdxegR5O_1QO-76" value="Авторизованный&lt;br&gt;пользователь" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#876413;fontFamily=Verdana;fontSize=13;fillColor=#FFDFB5;" parent="1" vertex="1">
           <mxGeometry x="280" y="479.5" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1acgbRlPmdxegR5O_1QO-77" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=13;strokeColor=#876413;strokeWidth=1;" parent="1" source="1acgbRlPmdxegR5O_1QO-60" target="1acgbRlPmdxegR5O_1QO-20" edge="1">
